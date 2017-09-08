@@ -1,0 +1,83 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 head.jsp
+include/head.jsp
++ 2 layout.jsp
+include/layout.jsp
++ 3 logo_profile.jsp
+include/logo_profile.jsp
++ 4 nav.jsp
+include/nav.jsp
++ 5 messages.jsp
+include/messages.jsp
++ 6 pageHead.jsp
+include/pageHead.jsp
++ 7 content.jsp
+include/content.jsp
++ 8 v_loai_san_pham.jsp
+include/../views/v_loai_san_pham.jsp
++ 9 v_them_loai_san_pham.jsp
+include/../views/v_them_loai_san_pham.jsp
++ 10 v_sua_loai_san_pham.jsp
+include/../views/v_sua_loai_san_pham.jsp
++ 11 footer.jsp
+include/footer.jsp
+*L
+1,2:61
+1#1,38:63
+1#2,6:101
+1#3,10:107
+6#2,2:116
+1#4,71:118
+7#2,2:189
+1#5,26:191
+8#2,9:217
+1#6,33:226
+16#2,6:259
+2#7,9:265
+10:274
+5#8,12:275
+17:287,3
+18,10:290
+28:300,3
+29:303
+30,2:304,3
+32:310
+33:311,3
+34,3:314
+37:317,3
+38,4:320
+42:324,3
+43,11:327
+11#7,2:337
+14,4:340
+17,2:344
+1#9,48:346
+18#7,2:393
+21,4:396
+24,2:400
+1#10,6:402
+6:407,2
+7,4:409
+11:413,3
+12,3:416
+15:419,3
+16,3:422
+19:425,3
+20,4:428
+24:432,3
+25,7:435
+32,2:442,3
+34,20:448
+25#7:467
+27,2:469
+28:471
+21#2,7:472
+1#11,9:478
+27#2,2:487
+*E
